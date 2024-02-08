@@ -1,6 +1,2 @@
-line1
-
-line2
-
-line3
-
+l1
+l2
